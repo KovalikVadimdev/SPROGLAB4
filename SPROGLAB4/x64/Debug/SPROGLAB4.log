@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\koval\source\repos\SPROGLAB4\SPROGLAB4\main.cpp(36,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\koval\source\repos\SPROGLAB4\SPROGLAB4\main.cpp(150,27): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\koval\source\repos\SPROGLAB4\SPROGLAB4\main.cpp(160,27): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  SPROGLAB4.vcxproj -> C:\Users\koval\Source\Repos\SPROGLAB4\x64\Debug\SPROGLAB4.exe
